@@ -1,0 +1,4 @@
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_2\code\obj\Debug\net9.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_2\code\obj\Debug\net9.0\code.AssemblyInfoInputs.cache
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_2\code\obj\Debug\net9.0\code.AssemblyInfo.cs
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_2\code\obj\Debug\net9.0\code.csproj.CoreCompileInputs.cache

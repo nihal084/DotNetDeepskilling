@@ -1,0 +1,14 @@
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\bin\Debug\net9.0\code.exe
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\bin\Debug\net9.0\code.deps.json
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\bin\Debug\net9.0\code.runtimeconfig.json
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\bin\Debug\net9.0\code.dll
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\bin\Debug\net9.0\code.pdb
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\code.AssemblyInfoInputs.cache
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\code.AssemblyInfo.cs
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\code.csproj.CoreCompileInputs.cache
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\code.dll
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\refint\code.dll
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\code.pdb
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\code.genruntimeconfig.cache
+C:\DotNetDeepskilling\Week1_DesignPatterns\Ex_1\code\obj\Debug\net9.0\ref\code.dll
