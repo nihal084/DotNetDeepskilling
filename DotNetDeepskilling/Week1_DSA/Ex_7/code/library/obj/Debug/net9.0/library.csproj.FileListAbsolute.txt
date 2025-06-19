@@ -1,0 +1,14 @@
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\bin\Debug\net9.0\library.exe
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\bin\Debug\net9.0\library.deps.json
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\bin\Debug\net9.0\library.runtimeconfig.json
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\bin\Debug\net9.0\library.dll
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\bin\Debug\net9.0\library.pdb
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\library.AssemblyInfoInputs.cache
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\library.AssemblyInfo.cs
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\library.csproj.CoreCompileInputs.cache
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\library.dll
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\refint\library.dll
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\library.pdb
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\library.genruntimeconfig.cache
+C:\DotNetDeepskilling\Week2_DSA\Ex_7\code\library\obj\Debug\net9.0\ref\library.dll
